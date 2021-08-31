@@ -3,8 +3,6 @@ title: About
 layout: page
 ---
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+Hi my nick name is ak018 this website is about my trading journal :D
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
-
-(Change this by editing `about.md` file)
+You can find the source code of this theme at <a href="https://github.com/k0ddy/k0ddy.github.io">Github</a>

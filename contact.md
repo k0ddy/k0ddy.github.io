@@ -3,8 +3,6 @@ title: Contact
 layout: page
 ---
 
-You can always contact the creator of this theme via [Twitter](https://twitter.com/_SupunKavinda).
+This is my youtube channel I hope to see you there :D <a href="https://www.youtube.com/channel/UCl7Tx9s0mc4Aztb-ltEPc1A">Youtube</a>
 
-If you need help with Jekyll, ask questions on [Jekyll Talk](https://talk.jekyllrb.com/).
-
-(Change this by editing `contact.md` file)
+You can find the source code of this theme at <a href="https://github.com/k0ddy/k0ddy.github.io">Github</a>
